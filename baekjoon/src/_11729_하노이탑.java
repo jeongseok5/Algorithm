@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class 하노이탑_11729 {
+public class _11729_하노이탑 {
 
 	static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 

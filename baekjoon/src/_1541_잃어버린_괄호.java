@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ÀÒ¾î¹ö¸°_°ıÈ£_1541 {
+public class _1541_ÀÒ¾î¹ö¸°_°ıÈ£ {
 
 	public static void main(String[] args) {
 		

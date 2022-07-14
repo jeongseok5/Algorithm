@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ATM_11399 {
+public class _11399_ATM {
 
 	public static void main(String[] args) {
 		Scanner scnr = new Scanner(System.in);

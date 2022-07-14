@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class 칸토어집합_4779 {
+public class _4779_칸토어집합 {
 	static char[] arr;
 	static int n;
 

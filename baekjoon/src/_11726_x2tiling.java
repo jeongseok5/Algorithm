@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class x2tiling11726 {
+public class _11726_x2tiling {
 	public static void main(String[] args) {
 		Scanner scnr = new Scanner(System.in);
 		

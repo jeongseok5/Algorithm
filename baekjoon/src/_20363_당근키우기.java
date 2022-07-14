@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 당근키우기_20363 {
+public class _20363_당근키우기 {
 
 	public static void main(String[] args) {
 		

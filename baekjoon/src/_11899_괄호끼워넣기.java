@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class °ýÈ£³¢¿ö³Ö±â_11899 {
+public class _11899_°ýÈ£³¢¿ö³Ö±â {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -4,7 +4,7 @@ import java.io.BufferedWriter;
 import java.io.OutputStreamWriter;
 import java.io.IOException;
  
-public class º°Âï±â_10_2447 {
+public class _2447_º°Âï±â_10 {
 	static char[][] arr;
  
 	public static void main(String[] args) throws IOException {

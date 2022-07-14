@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class º°Âï±â_19_10994 {
+public class _10994_º°Âï±â_19 {
 	static char[][] arr;
 
 	public static void main(String[] args) throws IOException {
@@ -9,7 +9,7 @@ public class º°Âï±â_19_10994 {
 		int n = Integer.parseInt(br.readLine());
 		arr = new char[4 * n - 3][4 * n - 3];
 		
-		// init: ²À ÇÏÀÚ..
+		// init: ÀØÁö¾Ê±â
 		for(int i=0; i<4*n-3; i++) {
 			for(int j=0;j<4*n-3; j++) {
 				arr[i][j] = ' ';

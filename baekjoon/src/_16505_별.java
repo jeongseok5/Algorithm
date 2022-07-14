@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class º°_16505 {
+public class _16505_º° {
 	static char[][] arr;
 
 	public static void main(String[] args) throws IOException {

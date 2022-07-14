@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Àç±Í_17478 {
+public class _17478_Àç±Í {
 	static String temp = "";
 	static String arr[];
 

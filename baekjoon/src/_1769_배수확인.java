@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class 배수확인_1769 {
+public class _1769_배수확인 {
 	static int times = 0;
 
 	private static void mulOfThree(String num, int times) {

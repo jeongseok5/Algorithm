@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class д╥гн_4796 {
+public class _4796_д╥гн {
 
 	public static void main(String[] args) {
 
